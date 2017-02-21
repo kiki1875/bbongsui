@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="dday" type="id" />
+    <item name="today" type="id" />
+    <item name="result" type="id" />
+    <item name="dateButton" type="id" />
+    <item name="timerValue" type="id" />
+    <item name="startButton" type="id" />
+    <item name="idTextView" type="id" />
+    <item name="btnStart" type="id" />
+    <item name="btnPause" type="id" />
+    <item name="btnLap" type="id" />
+    <item name="container" type="id" />
+    <item name="txtContent" type="id" />
+    <item name="action_new" type="id" />
+    <item name="listView" type="id" />
+</resources>

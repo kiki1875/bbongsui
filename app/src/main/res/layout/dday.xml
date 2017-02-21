@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <TextView
+        android:id="@id/dday"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:textSize="40sp"
+        android:textColor="#000000"
+        android:text="Due Date : 0000.00.00"
+        android:layout_width="242dp"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@id/today"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:textSize="40sp"
+        android:textColor="#000000"
+        android:text="Today : 0000.00.00"
+        android:layout_width="242dp"
+        android:layout_height="wrap_content" />
+    <Button
+        android:text="Button"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:id="@+id/button" />
+
+    <TextView
+        android:id="@id/result"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:textSize="40sp"
+        android:textColor="#000000"
+        android:text="Days Left"
+        android:layout_width="242dp"
+        android:layout_height="wrap_content" />
+
+
+
+</LinearLayout>
